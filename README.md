@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**devizahraaulia/devizahraaulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.instagram.com/dkylanutt/">
+  <img align="left" alt="dkylanutt's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://twitter.com/kmtaexxv">
+  <img align="left" alt="kmtaexxv | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
 
-Here are some ideas to get you started:
+<br/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+hi, i'm [Devi Zahra Aulia], an undergraduate student of Informatics. Passionate in fangirling. Like learning something new and sharing knowledge to others
+
+- 💼 any freelance work? do reach, [email](mailto:devizahraa12@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
+
+📈 my github stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=devizahraaulia&show_icons=true" alt="devizahraaulia"/>
